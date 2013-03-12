@@ -1,1 +1,3 @@
 baseurl: /myBlog
+markdown: rdiscount
+pygments: true
